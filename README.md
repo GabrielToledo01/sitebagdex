@@ -1,3 +1,7 @@
+
+# Projeto: IHC BAGDEX
+Este projeto tem como objetivo realizar redesign e implementação do site existente em https://bagdex.com.br/, com a implementação de novas funcionalidades e aprimoramentos. Para alcançar esse objetivo, estamos aplicando os princípios e métodos discutidos na disciplina de Interação Humano-Computador. O foco principal é melhorar a experiência do usuário, tornando o site mais intuitivo, eficiente e agradável de usar.
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?

@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  body.dark-mode {
+    background-color: #8b8b8b;
+    color: #fff;
+  }
+
+  .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+  }
+
+  .footer-dark .color .nav-link{
+    color: #fff;
+  }
+  
+  /* Estilos para o botão de dark mode */
+  .dark-mode-button {
+    color: #fff;
+    cursor: pointer;
+
+  }
+
+
+  
+ 

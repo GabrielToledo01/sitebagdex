@@ -1,0 +1,84 @@
+body {
+	background-image: url("../img/fundo_site_01.png");
+	background-attachment: fixed;
+	background-position: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
+
+  #container{
+	margin-bottom: 30px;
+  }
+
+  .btn-login {
+	font-size: 0.9rem;
+	letter-spacing: 0.05rem;
+	padding: 0.75rem 1rem;
+  }
+  
+  .btn-google {
+	color: white !important;
+	background-color: #ea4335;
+  }
+  
+  .btn-facebook {
+	color: white !important;
+	background-color: #3b5998;
+  }
+
+  .aviso {
+	background-color: #0cac0c;
+	border: 1px solid #0cac0c;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+  }
+
+  .aviso_erro{
+	background-color: #ff0000;
+	border: 1px solid #ff0000;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+  }
+  
+  .aviso h4 {
+	text-align: center;
+	color: #ffffff;
+	font-weight: bold;
+	margin: 0;
+  }
+
+  .aviso_erro h4{
+	text-align: center;
+	color: #ffffff;
+	font-weight: bold;
+	margin: 0;
+  }
+  
+  #footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+  }
+
+  .footer-dark .p{
+	color: #fff;
+  }
+
+  .h4-dark .title {
+	color: #fff;
+  }
+
+  .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+  }
+
+  
+  /* Estilos para o botão de dark mode */
+  .dark-mode-button {
+    color: #fff;
+    cursor: pointer;
+  }
